@@ -1,2 +1,20 @@
-# Secure-login-system
-A cybersecurity-focused secure login system that implements user authentication, password hashing, session management, and protection against common web vulnerabilities.
+
+# Secure Login System
+
+## Features
+- User Registration
+- Secure Password Hashing
+- Login Authentication
+- SQL Injection Protection
+- Session Management
+- Logout Functionality
+
+## Technologies
+- Python
+- Flask
+- SQLite
+- Werkzeug Security
+
+## Run
+
+pip install -r requireme
